@@ -17,5 +17,6 @@ A lightweight Python web application built using **Flask** and **Tailwind CSS** 
 PDO-Assignment/
 │
 ├── app.py              # Flask backend logic & routing
+├── requirements.txt    # Dependencies
 └── templates/
     └── index.html      # Frontend HTML & Tailwind CSS UI
