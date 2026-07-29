@@ -35,6 +35,8 @@ def index():
         result = (
           "Yes, it's a palindrome!" if is_pal else "No, it's not a palindrome."
       )
+    elif operation == "remove whitespace":
+        result = original_text.replace("\t", "").replace("\n", "").replace("\r", "").replace(" ","")
 
     return render_template(
       "index.html",
