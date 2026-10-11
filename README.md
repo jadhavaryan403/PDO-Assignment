@@ -20,3 +20,5 @@ PDO-Assignment/
 ├── requirements.txt    # Dependencies
 └── templates/
     └── index.html      # Frontend HTML & Tailwind CSS UI
+
+Assignment 1 for PDO
