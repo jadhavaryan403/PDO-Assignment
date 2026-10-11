@@ -21,4 +21,4 @@ PDO-Assignment/
 └── templates/
     └── index.html      # Frontend HTML & Tailwind CSS UI
 
-Assignment 1 for PDO
+Assignment 1 for PDO in team
